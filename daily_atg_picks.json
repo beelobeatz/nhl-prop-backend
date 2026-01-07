@@ -1,0 +1,258 @@
+{
+  "matchups": [
+    {
+      "game": "Los Angeles Kings vs San Jose Sharks",
+      "picks": [
+        {
+          "player": "Adrian Kempe",
+          "team": "LAK",
+          "opponent": "SJS",
+          "matchup_score": 92,
+          "reasoning": [
+            "PP1 volume leader vs top shot/goal leaks for RW",
+            "Pace dominance in blowout favorite",
+            "Position-specific alignment maximizes edge"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8477960.jpg"
+        },
+        {
+          "player": "Anze Kopitar",
+          "team": "LAK",
+          "opponent": "SJS",
+          "matchup_score": 90,
+          "reasoning": [
+            "PP1 center in total defensive collapse",
+            "High conversion vs vulnerable Nedeljkovic",
+            "Center leak paths boost volume"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8470604.jpg"
+        },
+        {
+          "player": "Quinton Byfield",
+          "team": "LAK",
+          "opponent": "SJS",
+          "matchup_score": 87,
+          "reasoning": [
+            "PP2 upside in extreme shot funnel",
+            "Blowout pace elevates secondary scoring",
+            "Forward position leaks support"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8481578.jpg"
+        },
+        {
+          "player": "Alex Laferriere",
+          "team": "LAK",
+          "opponent": "SJS",
+          "matchup_score": 85,
+          "reasoning": [
+            "PP1 winger direct volume path",
+            "SJS high forward leaks favor wingers",
+            "Suppressed return scoring"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8484180.jpg"
+        },
+        {
+          "player": "Andrei Kuzmenko",
+          "team": "LAK",
+          "opponent": "SJS",
+          "matchup_score": 83,
+          "reasoning": [
+            "PP2 finisher history in volume spots",
+            "Aligns with SJS goal leak positions",
+            "Pace edge vs road goalie"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8475768.jpg"
+        },
+        {
+          "player": "Kevin Fiala",
+          "team": "LAK",
+          "opponent": "SJS",
+          "matchup_score": 81,
+          "reasoning": [
+            "PP2 elite talent in dominant attack",
+            "Secondary PP amplified by leaks",
+            "Shot funnel in favored environment"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8477942.jpg"
+        }
+      ]
+    },
+    {
+      "game": "Utah Hockey Club vs Ottawa Senators",
+      "picks": [
+        {
+          "player": "Clayton Keller",
+          "team": "UTA",
+          "opponent": "OTT",
+          "matchup_score": 80,
+          "reasoning": [
+            "PP1 primary driver vs extreme vulnerability",
+            "Poor PK conversion amplifies",
+            "Team PPOF supports chances"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8479371.jpg"
+        },
+        {
+          "player": "Dylan Guenther",
+          "team": "UTA",
+          "opponent": "OTT",
+          "matchup_score": 79,
+          "reasoning": [
+            "PP1 role + recent hot streak",
+            "Goalie leak + PK weakness",
+            "Forward volume paths"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8482705.jpg"
+        },
+        {
+          "player": "Nick Schmaltz",
+          "team": "UTA",
+          "opponent": "OTT",
+          "matchup_score": 77,
+          "reasoning": [
+            "PP1 playmaker in Merilainen spot",
+            "OTT PK boosts opportunities",
+            "Position leak support"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8477971.jpg"
+        },
+        {
+          "player": "JJ Peterka",
+          "team": "UTA",
+          "opponent": "OTT",
+          "matchup_score": 75,
+          "reasoning": [
+            "Line/PP overlap vs weak goalie/PK",
+            "UTA generation in home mismatch",
+            "Emerging forward volume"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8482149.jpg"
+        }
+      ]
+    },
+    {
+      "game": "Calgary Flames vs Montreal Canadiens",
+      "picks": [
+        {
+          "player": "Jonathan Huberdeau",
+          "team": "CGY",
+          "opponent": "MTL",
+          "matchup_score": 73,
+          "reasoning": [
+            "PP1 minutes + team high SF/GP",
+            "Direct goalie mismatch overlay",
+            "MTL PPOA edge"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8474618.jpg"
+        },
+        {
+          "player": "Matt Coronato",
+          "team": "CGY",
+          "opponent": "MTL",
+          "matchup_score": 72,
+          "reasoning": [
+            "PP1 deployment vs leak spot",
+            "Strong shot volume generation",
+            "Conversion in vulnerabilities"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8482073.jpg"
+        },
+        {
+          "player": "Nazem Kadri",
+          "team": "CGY",
+          "opponent": "MTL",
+          "matchup_score": 71,
+          "reasoning": [
+            "PP1 center in Fowler risk",
+            "Team offensive shot paths",
+            "PPOA opportunities"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8475172.jpg"
+        }
+      ]
+    },
+    {
+      "game": "Chicago Blackhawks vs St. Louis Blues",
+      "picks": [
+        {
+          "player": "Tyler Bertuzzi",
+          "team": "CHI",
+          "opponent": "STL",
+          "matchup_score": 74,
+          "reasoning": [
+            "PP1 lead + explosive recent surge",
+            "High GA conversion leak",
+            "Forward paths vs shaky goalie"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8477479.jpg"
+        }
+      ]
+    },
+    {
+      "game": "Washington Capitals vs Dallas Stars",
+      "picks": [
+        {
+          "player": "Jason Robertson",
+          "team": "DAL",
+          "opponent": "WSH",
+          "matchup_score": 70,
+          "reasoning": [
+            "PP1 elite on top-3 GF team",
+            "High PP% + volume leaks",
+            "Balanced barnburner paths"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8480023.jpg"
+        },
+        {
+          "player": "Mikko Rantanen",
+          "team": "DAL",
+          "opponent": "WSH",
+          "matchup_score": 69,
+          "reasoning": [
+            "PP1 star in high-offense support",
+            "Mutual position leaks",
+            "Finishing ceiling"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8478420.jpg"
+        },
+        {
+          "player": "Dylan Strome",
+          "team": "WSH",
+          "opponent": "DAL",
+          "matchup_score": 68,
+          "reasoning": [
+            "PP1 center with Ovechkin volume",
+            "Balanced leak opportunities",
+            "Setup role benefits"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8478449.jpg"
+        },
+        {
+          "player": "Alex Ovechkin",
+          "team": "WSH",
+          "opponent": "DAL",
+          "matchup_score": 67,
+          "reasoning": [
+            "PP1 staple one-timer threat",
+            "Forward leak paths",
+            "Consistent in high-event"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8471214.jpg"
+        },
+        {
+          "player": "Roope Hintz",
+          "team": "DAL",
+          "opponent": "WSH",
+          "matchup_score": 66,
+          "reasoning": [
+            "PP1 driver on elite side",
+            "Center volume support",
+            "Conversion trends"
+          ],
+          "image_url": "https://assets.nhle.com/headshots/current/168x168/8477290.jpg"
+        }
+      ]
+    }
+  ],
+  "note": "Elite cumulative model – grouped by matchup for January 7, 2026"
+}
