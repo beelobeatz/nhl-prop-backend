@@ -516,9 +516,4 @@
             "over_rate_sog": "Over 4.5 SOG in 7/10 (70%)",
             "h2h_sog": 5
           }
-        }
-      ]
-    }
-  ],
-  "note": "Elite cumulative model – grouped by matchup with real correlating last5/10 goals/SOG data (plausible from season trends), January 7, 2026"
-}
+        } 
