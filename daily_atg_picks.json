@@ -1,0 +1,185 @@
+{
+  "atg_props": [
+    {
+      "player": "Adrian Kempe",
+      "team": "LAK",
+      "opponent": "SJS",
+      "matchup_score": 92,
+      "reasoning": [
+        "PP1 volume leader in -275 favorite vs SJS extreme leaks (#1 SA/GP, #2 GA/GP)",
+        "Nedeljkovic road weakness + Kuemper lock opposite",
+        "Position-specific shot/goal leaks favor RW slot"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477960.jpg"
+    },
+    {
+      "player": "Anze Kopitar",
+      "team": "LAK",
+      "opponent": "SJS",
+      "matchup_score": 90,
+      "reasoning": [
+        "PP1 center in total SJS defensive funnel",
+        "One-sided pace + vulnerable Nedeljkovic",
+        "High conversion in heavy favorite spot"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8470604.jpg"
+    },
+    {
+      "player": "Quinton Byfield",
+      "team": "LAK",
+      "opponent": "SJS",
+      "matchup_score": 87,
+      "reasoning": [
+        "PP2 high-upside in SJS collapse environment",
+        "Extreme shot volume + blowout boost",
+        "Elevated role vs porous defense"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8481578.jpg"
+    },
+    {
+      "player": "Alex Laferriere",
+      "team": "LAK",
+      "opponent": "SJS",
+      "matchup_score": 85,
+      "reasoning": [
+        "PP1 winger with Kempe/Kopitar vs weak SJS",
+        "Direct benefit from #1 SA/GP leak",
+        "Suppressed opposite scoring"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8484180.jpg"
+    },
+    {
+      "player": "Kevin Fiala",
+      "team": "LAK",
+      "opponent": "SJS",
+      "matchup_score": 83,
+      "reasoning": [
+        "PP2 shooter talent in dominant attack",
+        "Forward position leaks align",
+        "Pace edge vs Nedeljkovic"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477942.jpg"
+    },
+    {
+      "player": "Clayton Keller",
+      "team": "UTA",
+      "opponent": "OTT",
+      "matchup_score": 82,
+      "reasoning": [
+        "PP1 driver vs raw Merilainen",
+        "OTT #2 worst PK amplifies",
+        "Home edge in goalie mismatch"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8479371.jpg"
+    },
+    {
+      "player": "Dylan Guenther",
+      "team": "UTA",
+      "opponent": "OTT",
+      "matchup_score": 80,
+      "reasoning": [
+        "PP1 role + recent hot streak",
+        "Extreme goalie leak + poor PK",
+        "Solid position volume path"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8482705.jpg"
+    },
+    {
+      "player": "Nick Schmaltz",
+      "team": "UTA",
+      "opponent": "OTT",
+      "matchup_score": 78,
+      "reasoning": [
+        "PP1 playmaker vs Merilainen debut",
+        "OTT PK weakness boosts conversion",
+        "Forward leak support"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477971.jpg"
+    },
+    {
+      "player": "Tyler Bertuzzi",
+      "team": "CHI",
+      "opponent": "STL",
+      "matchup_score": 76,
+      "reasoning": [
+        "PP1 lead + strong recent surge",
+        "STL #4 GA/GP + Hofer road issues",
+        "Leak spot despite lower total"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8477479.jpg"
+    },
+    {
+      "player": "Jonathan Huberdeau",
+      "team": "CGY",
+      "opponent": "MTL",
+      "matchup_score": 74,
+      "reasoning": [
+        "PP1 minutes + team shot volume",
+        "Fowler unproven risk",
+        "MTL high PPOA edge"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8474618.jpg"
+    },
+    {
+      "player": "Matt Coronato",
+      "team": "CGY",
+      "opponent": "MTL",
+      "matchup_score": 72,
+      "reasoning": [
+        "PP1 deployment vs goalie leak",
+        "CGY strong SF/GP",
+        "Conversion upside in vulnerabilities"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8482073.jpg"
+    },
+    {
+      "player": "Nazem Kadri",
+      "team": "CGY",
+      "opponent": "MTL",
+      "matchup_score": 70,
+      "reasoning": [
+        "PP1 center in Fowler mismatch",
+        "Team offensive shot gen",
+        "PPOA opportunities vs MTL"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475172.jpg"
+    },
+    {
+      "player": "Jason Robertson",
+      "team": "DAL",
+      "opponent": "WSH",
+      "matchup_score": 68,
+      "reasoning": [
+        "PP1 elite on high-GF side",
+        "Balanced volume leaks",
+        "Strong team PP conversion"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8480023.jpg"
+    },
+    {
+      "player": "Mikko Rantanen",
+      "team": "DAL",
+      "opponent": "WSH",
+      "matchup_score": 66,
+      "reasoning": [
+        "PP1 talent in goal-friendly spot",
+        "Elite offensive support",
+        "Position shot paths"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8478420.jpg"
+    },
+    {
+      "player": "Alex Ovechkin",
+      "team": "WSH",
+      "opponent": "DAL",
+      "matchup_score": 64,
+      "reasoning": [
+        "PP1 volume staple",
+        "Mutual high-edge matchup",
+        "Forward leak opportunities"
+      ],
+      "image_url": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8471214.jpg"
+    }
+  ],
+  "note": "Elite cumulative model – January 7, 2026"
+}
