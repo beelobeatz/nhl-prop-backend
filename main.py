@@ -1,0 +1,14 @@
+import requests
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def get_daily_props():
+    try:
+        DAILY_JSON_URL = "https://raw.githubusercontent.com/beelobeatz/nhl-prop-backend/main/daily_atg_picks.json"
+        resp = requests.get(DAILY_JSON_URL, timeout=10)
+        resp.raise_for_status()
+        return resp.json()
+    except Exception as e:
+        return {"matchups": [], "note": "Check JSON file in GitHub – error: " + str(e)}
